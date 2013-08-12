@@ -1,7 +1,2 @@
-require "rubysl-tempfile/version"
-
-module RubySL
-  module Tempfile
-    # Your code goes here...
-  end
-end
+require "rubysl/tempfile/version"
+require "rubysl/tempfile/tempfile"
